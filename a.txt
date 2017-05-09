@@ -1,1 +1,2 @@
 git is free software
+is very cool
